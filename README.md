@@ -9,7 +9,7 @@ An interactive sales analytics dashboard designed to help management monitor rev
 
 ## Dashboard Preview
 
-![Revivea Sales Analytics Dashboard](assets/revivea-sales-dashboard.png)
+![Revivea Sales Analytics Dashboard](Screenshots/revivea-sales-dashboard.png)
 
 ## Business Objective
 
