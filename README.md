@@ -9,8 +9,8 @@ An interactive sales analytics dashboard designed to help management monitor rev
 
 ## Dashboard Preview
 
-![Revivea-sales-analytics-powerbi
-](Screenshots/revivea-sales-dashboard(1).png)
+[![Revivea-sales-analytics-powerbi
+](Screenshots/revivea-sales-dashboard(1).png)](https://github.com/Sathiyamoorthi-DA/Revivea-sales-analytics-powerbi/blob/main/Screenshots/revivea-sales-dashboard%20(1).png)
 
 ## Business Objective
 
